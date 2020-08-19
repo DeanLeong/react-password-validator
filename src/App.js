@@ -1,12 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Validator from './Validator';
 
-class App extends Component {
-  render() {
-    return (
-      <Validator />
-    );
-  }
+function App() {
+  return (
+    <Validator />
+  );
 }
 
 export default App;
