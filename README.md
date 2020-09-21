@@ -3,7 +3,7 @@
 # React Password Validator
 
 Recreate a password validator in React. Your final product should function
-similarly to [this deployed version](http://excellent-tail.surge.sh) of the
+similarly to [this deployed version](http://omniscient-ladybug.surge.sh/) of the
 component.
 
 ## Prerequisites
